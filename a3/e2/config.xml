@@ -1,0 +1,9 @@
+<configuration>
+	<refFolder>/data/spark/ref</refFolder>
+	<toolsFolder>/data/spark/tools</toolsFolder>
+	<tmpFolder>/home/ajayadhikari/a3/e2/temp</tmpFolder> <!-- Use something like /data/yourusername. Never use a shared dir -->
+	<inputFolder>/home/ajayadhikari/a3/e1/out</inputFolder>
+	<outputFolder>output</outputFolder> 
+	<numInstances>4</numInstances>
+	<numThreads>4</numThreads>
+</configuration>
